@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matteo.quintana1@gmail.com
+	name = matteoquintana
